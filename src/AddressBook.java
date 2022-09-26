@@ -28,5 +28,6 @@ public class AddressBook {
 
         BuddyInfo buddy2 = new BuddyInfo("Basma", "Carleton", "613");
         addressBook.addBuddy(buddy2);
+        System.out.println("buddy2 has been added!");
     }
 }
