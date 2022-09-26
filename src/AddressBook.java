@@ -20,7 +20,7 @@ public class AddressBook {
         return null;
     }
 
-    public String printBuddyName(BuddyInfo buddy){
+    public String printName(BuddyInfo buddy){
         return buddy.getName();
     }
 
